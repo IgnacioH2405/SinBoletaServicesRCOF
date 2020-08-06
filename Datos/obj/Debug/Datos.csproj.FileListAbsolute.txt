@@ -1,0 +1,2 @@
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache

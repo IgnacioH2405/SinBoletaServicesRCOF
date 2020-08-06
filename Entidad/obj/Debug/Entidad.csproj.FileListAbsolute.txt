@@ -1,0 +1,5 @@
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Entidad\bin\Debug\Entidad.dll
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Entidad\obj\Debug\Entidad.dll
+C:\Users\Nacho\Desktop\SinBoletaServiceRCOF\Entidad\obj\Debug\Entidad.pdb
